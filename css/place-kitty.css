@@ -21,7 +21,7 @@
   left: 319px;
 }
 
-/* #ball + img{
+#ball + img{
   position: absolute;
   z-index: 4;
   top: 260px;
@@ -29,10 +29,10 @@
 } 
 
 
-img[alt="Kitty 5"] {
+/* img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
   left: 223px;
-}
- */
+} */
+
