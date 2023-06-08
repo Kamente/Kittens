@@ -14,19 +14,21 @@
 }
 
 
+
 #basket img{
   position: absolute;
   z-index: 5;
   top: 291px;
-  left: 319px;
+  left: 280px;
 }
 
-#ball + img{
+
+/* #ball + img{
   position: absolute;
   z-index: 4;
   top: 260px;
   left: 455px;
-} 
+}  */
 
 
 /* img[alt="Kitty 5"] {
